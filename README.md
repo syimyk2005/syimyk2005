@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Syimyk</h1>
-<h3 align="center">Java Software Engeneer</h3>
+<h3 align="center">Java Software Engineer</h3>
 
 - I’m currently learning **Spring, Java, Kafka, JUnit, JavaFX, PostgreSQL**
 
