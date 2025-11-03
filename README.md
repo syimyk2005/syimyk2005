@@ -8,12 +8,14 @@
 
 ### 🚀 Обо мне
 
-- 🌱 Изучаю **Spring Boot**, **Kafka**, **gRPC**
-- 🧠 Интересуюсь **архитектурой микросервисов**, **Docker**, **CI/CD**
+- 🌱 Изучаю **Spring Boot**, **Kafka**, **gRPC**, **Docker**
+- 💼 Разрабатываю **Full-Stack приложения** на **Java + Spring**
+- 🧠 Интересуюсь **микросервисной архитектурой**, **CI/CD**, **качественным кодом**
 - 🎯 Цель: стать **Senior Backend Engineer**
-- 📍 Операционные системы: **Arch Linux**, **Ubuntu**, **Windows**
-  
+- 🖥️ Работаю в средах: **Arch Linux**, **Ubuntu**, **Windows**
+
 ---
+
 ### 🛠️ Технологии и инструменты
 
 #### 💡 Backend:
@@ -22,10 +24,11 @@
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🌐 Frontend:
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+#### 🗄️ Databases:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### ⚙️ Tools & DevOps:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -43,13 +46,12 @@
 </p>
 
 ---
----
 
 ### 📫 Как связаться со мной
 
 <p align="center">
-  <a href="mailto:sagynov512@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/syimyksagynov](https://www.linkedin.com/in/syimyk-sagynov-2568712b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:syimyksagynov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/syimyksagynov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/syimyk_s"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
