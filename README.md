@@ -8,14 +8,12 @@
 
 ### 🚀 Обо мне
 
-- 🌱 Изучаю **Spring Boot**, **Kafka**, **gRPC**, **Angular/React**
-- 💼 Разрабатываю **Full-Stack приложения** (Java + Spring + Angular)
+- 🌱 Изучаю **Spring Boot**, **Kafka**, **gRPC**
 - 🧠 Интересуюсь **архитектурой микросервисов**, **Docker**, **CI/CD**
 - 🎯 Цель: стать **Senior Backend Engineer**
 - 📍 Операционные системы: **Arch Linux**, **Ubuntu**, **Windows**
-
+  
 ---
-
 ### 🛠️ Технологии и инструменты
 
 #### 💡 Backend:
@@ -28,7 +26,6 @@
 
 #### 🌐 Frontend:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### ⚙️ Tools & DevOps:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -46,21 +43,13 @@
 </p>
 
 ---
-
-### 🧩 Недавние проекты
-
-- 🧠 **Task Manager** — Spring Boot + React  
-- 🐳 **Microservices Demo** — Kafka + Docker + gRPC  
-- 💰 **Finance Tracker** — JavaFX + PostgreSQL  
-- 🔐 **Auth Service** — JWT + LDAP + Spring Security  
-
 ---
 
 ### 📫 Как связаться со мной
 
 <p align="center">
-  <a href="mailto:syimyksagynov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/syimyksagynov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sagynov512@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/syimyksagynov](https://www.linkedin.com/in/syimyk-sagynov-2568712b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/syimyk_s"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
