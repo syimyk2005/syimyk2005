@@ -9,7 +9,7 @@
 ### 🚀 Обо мне
 
 - 🌱 Изучаю **Spring Boot**, **Kafka**, **gRPC**, **Docker**
-- 💼 Разрабатываю **Full-Stack приложения** на **Java + Spring**
+- 💼 Разрабатываю **Backend приложения** на **Java + Spring**
 - 🧠 Интересуюсь **микросервисной архитектурой**, **CI/CD**, **качественным кодом**
 - 🎯 Цель: стать **Senior Backend Engineer**
 - 🖥️ Работаю в средах: **Arch Linux**, **Ubuntu**, **Windows**
