@@ -40,10 +40,7 @@
 
 ### 📊 GitHub статистика
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=syimyk2005&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=syimyk2005&theme=radical" />
-</p>
+### 📊 GitHub статистика <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=syimyk2005&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=syimyk2005&theme=radical" /> </p>
 
 ---
 
