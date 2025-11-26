@@ -36,16 +36,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
----
-
-### 📊 GitHub статистика
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=syimyk2005&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=syimyk2005&theme=radical" alt="Streak stats" />
-</p>
-
----
-
 ### 📫 Как связаться со мной
 <p align="center">
   <a href="mailto:sagynov512@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
