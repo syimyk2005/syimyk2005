@@ -1,4 +1,4 @@
-<h1 align="center">👋Привет! Меня зовут Сыймык</h1>
+<h1 align="center">👋Hi! My name is Syimyk</h1>
 
 <p align="center">
   💻 Backend Developer | ☕ Java Enthusiast | 🚀 Building scalable systems with Spring Boot & Docker
