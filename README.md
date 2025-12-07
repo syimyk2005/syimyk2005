@@ -8,7 +8,7 @@
 
 ### 🚀 Обо мне
 
-- 🌱 Изучаю **Spring Boot**, **Axelor** **Kafka**, **gRPC**, **Docker**, **Redis**
+- 🌱 Изучаю **Spring Boot**, **Axelor**, **Kafka**, **gRPC**, **Docker**, **Redis**
 - 💼 Разрабатываю **Backend приложения** на **Java + Spring**
 - 🧠 Интересуюсь **микросервисной архитектурой**, **CI/CD**, **качественным кодом**
 - 🎯 Цель: стать **Software Engineer в Big Tech**
