@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 ## 🧠 Обо мне
 
 Привет! Я **Syimyk** — бэкенд-разработчик из Кыргызстана.
@@ -32,8 +30,6 @@ Developer syimyk = new Developer()
     .passion("Microservice Architecture & Distributed Systems")
     .os(List.of("Arch Linux", "Ubuntu", "Windows"));
 ```
-
----
 
 ## 🛠️ Стек технологий
 
@@ -62,8 +58,6 @@ Developer syimyk = new Developer()
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=syimyk2005.syimyk2005&color=00d9ff)
 
 </div>
-
----
 
 <div align="center">
 
