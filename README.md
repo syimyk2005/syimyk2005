@@ -43,7 +43,6 @@ Developer syimyk = new Developer()
 
 </div>
 
----
 
 ## 📫 Контакты
 
