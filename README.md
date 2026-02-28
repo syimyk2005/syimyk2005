@@ -28,12 +28,25 @@
 
 ---
 
+### ⚡ Текущий фокус
+
+> 🔴 **Redis** — активно изучаю: rate limiting, кэширование, pub/sub, Lua скрипты  
+> 🟡 **Spring WebFlux** — реактивное программирование и неблокирующие сервисы  
+> 🟢 **Kafka** — event-driven архитектура и стриминг данных  
+> 🔵 **gRPC** — высокопроизводительная межсервисная коммуникация  
+
+---
+
+
 <div align="center">
 
 ### 📫 Контакты
 
-[![Gmail](https://img.shields.io/badge/-sagynov512@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagynov512@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Syimyk_Sagynov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syimyk-sagynov-2568712b9/)
-[![Telegram](https://img.shields.io/badge/-@Sagynovv-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sagynovv)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:sagynov512@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/syimyk-sagynov-2568712b9/)
+[![Telegram](https://skillicons.dev/icons?i=telegram&theme=dark)](https://t.me/Sagynovv)
 
 </div>
+
+**💬 "Code. Learn. Improve. Repeat."**
+
