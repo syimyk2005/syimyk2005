@@ -33,27 +33,11 @@ Developer syimyk = new Developer()
     .os(List.of("Arch Linux", "Ubuntu", "Windows"));
 ```
 
----
-
-## 🛠️ Стек технологий
 
 <div align="center">
-
-**Backend**
-
+## 🛠️ Стек технологий
 <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,grafana&theme=dark" /> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" /> <img src="https://skillicons.dev/icons?i=docker,maven,githubactions,idea,arch&theme=dark" />
-
-
-**Databases**
-
-
-
-**DevOps & Tools**
-
-
 </div>
-
----
 
 ## 📫 Контакты
 
