@@ -1,48 +1,116 @@
-<h1 align="center">👋Hi! My name is Syimyk</h1>
+<div align="center">
 
-<p align="center">
-  💻 Backend Developer | ☕ Java Enthusiast | 🚀 Building scalable systems with Spring Boot & Docker
-</p>
+```
+███████╗██╗   ██╗██╗███╗   ███╗██╗   ██╗██╗  ██╗
+██╔════╝╚██╗ ██╔╝██║████╗ ████║╚██╗ ██╔╝██║ ██╔╝
+███████╗ ╚████╔╝ ██║██╔████╔██║ ╚████╔╝ █████╔╝ 
+╚════██║  ╚██╔╝  ██║██║╚██╔╝██║  ╚██╔╝  ██╔═██╗ 
+███████║   ██║   ██║██║ ╚═╝ ██║   ██║   ██║  ██╗
+╚══════╝   ╚═╝   ╚═╝╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
+
+### Backend Developer · Java Enthusiast · System Architect in Progress
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+scalable+systems+with+Spring+Boot;Mastering+Redis+%26+distributed+caching;Exploring+microservice+architecture;Code.+Learn.+Improve.+Repeat.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🚀 Обо мне
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=syimyk-sagynov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
 
-- 🌱 Изучаю **Spring Boot**, **Axelor**, **Kafka**, **gRPC**, **Docker**, **Redis**
-- 💼 Разрабатываю **Backend приложения** на **Java + Spring**
-- 🧠 Интересуюсь **микросервисной архитектурой**, **CI/CD**, **качественным кодом**
-- 🎯 Цель: стать **Software Engineer в Big Tech**
-- 🖥️ Работаю в средах: **Arch Linux**, **Ubuntu**, **Windows**
+### 🧠 Обо мне
+
+```java
+Developer syimyk = new Developer()
+    .name("Syimyk Sagynov")
+    .role("Backend Developer")
+    .goal("Software Engineer @ Big Tech")
+    .learning(List.of(
+        "Spring Boot", "Redis",
+        "Kafka", "gRPC", "Docker"
+    ))
+    .passion("Микросервисная архитектура")
+    .os(List.of("Arch Linux", "Ubuntu", "Windows"));
+```
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ Технологии и инструменты
+### ⚡ Текущий фокус
 
-#### 💡 Backend:
+> 🔴 **Redis** — активно изучаю: rate limiting, кэширование, pub/sub, Lua скрипты  
+> 🟡 **Spring WebFlux** — реактивное программирование и неблокирующие сервисы  
+> 🟢 **Kafka** — event-driven архитектура и стриминг данных  
+> 🔵 **gRPC** — высокопроизводительная межсервисная коммуникация  
+
+---
+
+### 🛠️ Стек технологий
+
+#### Backend
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-#### 🗄️ Databases:
+#### 🔴 Redis — активно изучаю
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+```
+✅ Rate Limiting (Sliding window, Fixed window)
+✅ Lua скрипты для атомарных операций  
+✅ Reactive Redis (Spring WebFlux)
+🔄 Pub/Sub messaging
+🔄 Redis Streams
+🔄 Redis Cluster
+```
+
+#### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### ⚙️ Tools & DevOps:
+#### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
-### 📫 Мои контакты:
-<p align="center">
-  <a href="mailto:sagynov512@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/syimyk-sagynov-2568712b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/Sagynovv"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
-<p align="center">
-  💬 "Code. Learn. Improve. Repeat."  
-</p>
+---
 
+### 📊 GitHub статистика
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syimyk-sagynov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=syimyk-sagynov&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
+
+</div>
+
+---
+
+### 📫 Контакты
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/sagynov512@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagynov512@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Syimyk_Sagynov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syimyk-sagynov-2568712b9/)
+[![Telegram](https://img.shields.io/badge/@Sagynovv-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sagynovv)
+
+</div>
+
+---
+
+<div align="center">
+
+**💬 "Code. Learn. Improve. Repeat."**
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=syimyk-sagynov.syimyk-sagynov&color=00d9ff)
+
+</div>
