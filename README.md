@@ -41,19 +41,9 @@ Developer syimyk = new Developer()
 ## 📫 Контакты
 
 <div align="center">
-
-<a href="mailto:sagynov512@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/syimyk-sagynov-2568712b9/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-</a>
-&nbsp;&nbsp;
-<a href="https://t.me/Sagynovv">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="50" />
-</a>
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagynov512@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syimyk-sagynov-2568712b9/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sagynovv)
 <br/><br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=syimyk2005.syimyk2005&color=00d9ff)
