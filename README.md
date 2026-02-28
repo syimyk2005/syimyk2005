@@ -9,44 +9,78 @@
 ╚══════╝   ╚═╝   ╚═╝╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-### Backend Developer · Java Enthusiast · System Architect in Progress
+**Backend Developer · Java Enthusiast · System Architect in Progress**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+scalable+systems+with+Spring+Boot;Mastering+Redis+%26+distributed+caching;Exploring+microservice+architecture;Code.+Learn.+Improve.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Building+scalable+systems+with+Spring+Boot;Mastering+Redis+%26+distributed+caching;Exploring+microservice+architecture;Future+Software+Engineer+%40+Google;Code.+Learn.+Improve.+Repeat.)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-
-### 🛠️ Стек технологий
-
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,redis&theme=dark&perline=4" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker&theme=dark&perline=4" /><br/>
-<img src="https://skillicons.dev/icons?i=githubactions,maven,idea,arch&theme=dark&perline=4" />
-
-<br/>
 </div>
 
 ---
 
-### ⚡ Текущий фокус
+## 🧠 Обо мне
 
-> 🔴 **Redis** — активно изучаю: rate limiting, кэширование, pub/sub, Lua скрипты  
-> 🟡 **Spring WebFlux** — реактивное программирование и неблокирующие сервисы  
-> 🟢 **Kafka** — event-driven архитектура и стриминг данных  
-> 🔵 **gRPC** — высокопроизводительная межсервисная коммуникация  
+Привет! Я **Syimyk** — бэкенд-разработчик из Кыргызстана, влюблённый в Java и распределённые системы.
+
+Цель — попасть в **Big Tech** в роли Software Engineer. Каждый день изучаю что-то новое: от реактивного программирования до проектирования высоконагруженных систем.
+
+```java
+Developer syimyk = new Developer()
+    .name("Syimyk Sagynov")
+    .role("Backend Developer")
+    .goal("Software Engineer @ Google") // 🎯
+    .learning(List.of("Spring Boot", "Redis", "Kafka", "gRPC", "Docker"))
+    .passion("Microservice Architecture & Distributed Systems")
+    .os(List.of("Arch Linux", "Ubuntu", "Windows"));
+```
 
 ---
 
+## 🛠️ Стек технологий
 
 <div align="center">
 
-### 📫 Контакты
+**Backend**
 
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:sagynov512@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/syimyk-sagynov-2568712b9/)
-[![Telegram](https://skillicons.dev/icons?i=telegram&theme=dark)](https://t.me/Sagynovv)
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,grafana&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,maven,githubactions,idea,arch&theme=dark" />
 
 </div>
 
-**💬 "Code. Learn. Improve. Repeat."**
+---
 
+## 📫 Контакты
+
+<div align="center">
+
+<a href="mailto:sagynov512@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/syimyk-sagynov-2568712b9/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+</a>
+&nbsp;&nbsp;
+<a href="https://t.me/Sagynovv">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="50" />
+</a>
+
+<br/><br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=syimyk2005.syimyk2005&color=00d9ff)
+
+</div>
+
+---
+
+<div align="center">
+
+*💬 "Code. Learn. Improve. Repeat."*
+
+</div>
