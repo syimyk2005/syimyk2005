@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=syimyk-sagynov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=syimyk2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
 
 ### 🧠 Обо мне
 
@@ -87,9 +87,9 @@ Developer syimyk = new Developer()
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syimyk-sagynov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syimyk2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=syimyk-sagynov&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=syimyk2005&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
 
 </div>
 
@@ -111,6 +111,6 @@ Developer syimyk = new Developer()
 
 **💬 "Code. Learn. Improve. Repeat."**
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=syimyk-sagynov.syimyk-sagynov&color=00d9ff)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=syimyk2005.syimyk2005&color=00d9ff)
 
 </div>
