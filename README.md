@@ -52,20 +52,7 @@ Developer syimyk = new Developer()
 ![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-#### 🔴 Redis — активно изучаю
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-```
-✅ Rate Limiting (Sliding window, Fixed window)
-✅ Lua скрипты для атомарных операций
-✅ Reactive Redis (Spring WebFlux)
-🔄 Pub/Sub messaging
-🔄 Redis Streams
-🔄 Redis Cluster
-```
-
-#### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
