@@ -33,18 +33,31 @@ Developer syimyk = new Developer()
     .os(List.of("Arch Linux", "Ubuntu", "Windows"));
 ```
 
+---
+
 ## 🛠️ Стек технологий
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,grafana&theme=dark" /> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" /> <img src="https://skillicons.dev/icons?i=docker,maven,githubactions,idea,arch&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,grafana&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=docker,maven,githubactions,idea,arch&theme=dark" />
+
 </div>
+
+---
 
 ## 📫 Контакты
 
 <div align="center">
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagynov512@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syimyk-sagynov-2568712b9/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sagynovv)
-<br/><br/>
+
+<a href="mailto:sagynov512@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/syimyk-sagynov-2568712b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/Sagynovv"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+<br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=syimyk2005.syimyk2005&color=00d9ff)
 
