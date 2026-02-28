@@ -17,8 +17,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=syimyk2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
-
 ### 🧠 Обо мне
 
 ```java
@@ -33,8 +31,6 @@ Developer syimyk = new Developer()
     .passion("Микросервисная архитектура")
     .os(List.of("Arch Linux", "Ubuntu", "Windows"));
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -62,7 +58,7 @@ Developer syimyk = new Developer()
 
 ```
 ✅ Rate Limiting (Sliding window, Fixed window)
-✅ Lua скрипты для атомарных операций  
+✅ Lua скрипты для атомарных операций
 ✅ Reactive Redis (Spring WebFlux)
 🔄 Pub/Sub messaging
 🔄 Redis Streams
@@ -80,18 +76,6 @@ Developer syimyk = new Developer()
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-
----
-
-### 📊 GitHub статистика
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syimyk2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=syimyk2005&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
-
-</div>
 
 ---
 
