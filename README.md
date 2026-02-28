@@ -1,5 +1,22 @@
 <div align="center">
 
+```
+███████╗██╗   ██╗██╗███╗   ███╗██╗   ██╗██╗  ██╗
+██╔════╝╚██╗ ██╔╝██║████╗ ████║╚██╗ ██╔╝██║ ██╔╝
+███████╗ ╚████╔╝ ██║██╔████╔██║ ╚████╔╝ █████╔╝ 
+╚════██║  ╚██╔╝  ██║██║╚██╔╝██║  ╚██╔╝  ██╔═██╗ 
+███████║   ██║   ██║██║ ╚═╝ ██║   ██║   ██║  ██╗
+╚══════╝   ╚═╝   ╚═╝╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
+
+### Backend Developer · Java Enthusiast · System Architect in Progress
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+scalable+systems+with+Spring+Boot;Mastering+Redis+%26+distributed+caching;Exploring+microservice+architecture;Code.+Learn.+Improve.+Repeat.)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
 ### 🛠️ Стек технологий
 
 <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis&theme=dark&perline=4" /><br/>
@@ -7,15 +24,6 @@
 <img src="https://skillicons.dev/icons?i=githubactions,maven,idea,arch&theme=dark&perline=4" />
 
 <br/>
-
-| Категория | Технологии |
-|-----------|-----------|
-| **Backend** | Java 21 · Spring Boot · Spring Security · Spring WebFlux · gRPC |
-| **Messaging** | Apache Kafka · Redis (pub/sub, cache, rate limiting) |
-| **Databases** | PostgreSQL · MySQL · MongoDB |
-| **DevOps** | Docker · Maven · GitHub Actions |
-| **Tools** | IntelliJ IDEA · Arch Linux · Ubuntu |
-
 </div>
 
 ---
