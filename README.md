@@ -41,23 +41,27 @@ Developer syimyk = new Developer()
 
 <div align="center">
 
-**Backend**
+**Backend** &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis&theme=dark" height="40" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,redis&theme=dark" />
+**Databases** &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="40" />
 
-**Databases**
+**DevOps & Observability** &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=docker,grafana,maven,githubactions&theme=dark" height="40" />
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-
-**Observability & DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,grafana,maven,githubactions&theme=dark" />
-
-**Environment**
-
-<img src="https://skillicons.dev/icons?i=arch,idea,git,linux&theme=dark" />
+**Environment** &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=arch,idea,git,linux&theme=dark" height="40" />
 
 </div>
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Shield API**](https://github.com/syimyk2005/shield-api) | Per-endpoint, per-client rate limiter with ALLOW / LIMIT / BLOCK decisions | Spring WebFlux, Redis, Kafka |
+| [**QR Service**](https://github.com/syimyk2005/qr-service) | Java library for QR-based document management | Java, Maven |
+| **Cert Registry** | Government certification management system | Axelor, Java, BIRT |
+
+---
 
 ## 📊 GitHub Stats
 
@@ -73,19 +77,11 @@ Developer syimyk = new Developer()
 ## 📫 Contact
 
 <div align="center">
-
-<a href="mailto:sagynov512@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/syimyk-sagynov-2568712b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/Sagynovv"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-
-<br/>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=syimyk2005.syimyk2005&color=00d9ff)
-
+<a href="mailto:sagynov512@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/syimyk-sagynov-2568712b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://t.me/Sagynovv"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
 ---
 
 <div align="center">
-  <sub>💬 <em>"Code. Learn. Improve. Repeat."</em></sub>
+<sub>💬 <em>"Code. Learn. Improve. Repeat."</em> &nbsp;·&nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=syimyk2005.syimyk2005&color=00d9ff)</sub>
 </div>
