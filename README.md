@@ -41,13 +41,8 @@ Developer syimyk = new Developer()
 
 <div align="center">
 
-**Backend** &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis&theme=dark" height="40" />
-
-**Databases** &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="40" />
-
-**DevOps & Observability** &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=docker,grafana,maven,githubactions&theme=dark" height="40" />
-
-**Environment** &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=arch,idea,git,linux&theme=dark" height="40" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,kafka,redis,rabbitmq,nginx,docker,kubernetes,prometheus&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch,grafana,githubactions,git,linux,arch,idea,vscode,bash&theme=dark" />
 
 </div>
 
@@ -77,7 +72,10 @@ Developer syimyk = new Developer()
 ## 📫 Contact
 
 <div align="center">
-<a href="mailto:sagynov512@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/syimyk-sagynov-2568712b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://t.me/Sagynovv"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+| [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagynov512@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syimyk-sagynov-2568712b9/) | [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sagynovv) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syimyk2005) |
+|:---:|:---:|:---:|:---:|
+
 </div>
 
 ---
