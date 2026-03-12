@@ -94,5 +94,5 @@ Developer syimyk = new Developer()
 ---
 
 <div align="center">
-<sub>💬 <em>"Code. Learn. Improve. Repeat."</em> &nbsp;·&nbsp; </sub>
+<sub>💬 <em>"Code. Learn. Improve. Repeat."</em> </sub>
 </div>
