@@ -41,10 +41,35 @@ Developer syimyk = new Developer()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,kafka,redis,rabbitmq,nginx,docker,kubernetes,prometheus&theme=dark" />
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch,grafana,githubactions,git,linux,arch,idea,vscode,bash&theme=dark" />
+<a title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" /></a>
+<a title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring&theme=dark" height="40" /></a>
+<a title="Hibernate"><img src="https://skillicons.dev/icons?i=hibernate&theme=dark" height="40" /></a>
+<a title="Maven"><img src="https://skillicons.dev/icons?i=maven&theme=dark" height="40" /></a>
+<a title="Gradle"><img src="https://skillicons.dev/icons?i=gradle&theme=dark" height="40" /></a>
+<a title="Apache Kafka"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="40" /></a>
+<a title="Redis"><img src="https://skillicons.dev/icons?i=redis&theme=dark" height="40" /></a>
+<a title="RabbitMQ"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" height="40" /></a>
+<a title="Nginx"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" height="40" /></a>
+<a title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" /></a>
+<a title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="40" /></a>
+<a title="Prometheus"><img src="https://skillicons.dev/icons?i=prometheus&theme=dark" height="40" /></a>
+<br/>
+<a title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" /></a>
+<a title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" /></a>
+<a title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40" /></a>
+<a title="Elasticsearch"><img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" height="40" /></a>
+<a title="Grafana"><img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="40" /></a>
+<a title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="40" /></a>
+<a title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" /></a>
+<a title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" /></a>
+<a title="Arch Linux"><img src="https://skillicons.dev/icons?i=arch&theme=dark" height="40" /></a>
+<a title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea&theme=dark" height="40" /></a>
+<a title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" /></a>
+<a title="Bash"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40" /></a>
 
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
