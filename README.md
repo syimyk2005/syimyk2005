@@ -1,42 +1,103 @@
 <div align="center">
+
 ```
-███████╗██╗ ██╗██╗███╗ ███╗██╗ ██╗██╗ ██╗
+███████╗██╗   ██╗██╗███╗   ███╗██╗   ██╗██╗  ██╗
 ██╔════╝╚██╗ ██╔╝██║████╗ ████║╚██╗ ██╔╝██║ ██╔╝
-███████╗ ╚████╔╝ ██║██╔████╔██║ ╚████╔╝ █████╔╝
-╚════██║ ╚██╔╝ ██║██║╚██╔╝██║ ╚██╔╝ ██╔═██╗
-███████║ ██║ ██║██║ ╚═╝ ██║ ██║ ██║ ██╗
-╚══════╝ ╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝
+███████╗ ╚████╔╝ ██║██╔████╔██║ ╚████╔╝ █████╔╝ 
+╚════██║  ╚██╔╝  ██║██║╚██╔╝██║  ╚██╔╝  ██╔═██╗ 
+███████║   ██║   ██║██║ ╚═╝ ██║   ██║   ██║  ██╗
+╚══════╝   ╚═╝   ╚═╝╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
+
 **Backend Developer · Java Enthusiast · System Architect in Progress**
-[<image-card alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Building+scalable+systems+with+Spring+Boot;Mastering+Redis+%26+distributed+caching;Exploring+microservice+architecture;Future+Software+Engineer+%40+Google;Code.+Learn.+Improve.+Repeat." ></image-card>](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Building+scalable+systems+with+Spring+Boot;Mastering+Redis+%26+distributed+caching;Exploring+microservice+architecture;Future+Software+Engineer+%40+Google;Code.+Learn.+Improve.+Repeat.)](https://git.io/typing-svg)
+
 </div>
-## 🧠 Обо мне
-Привет! Я **Syimyk** — бэкенд-разработчик из Кыргызстана.
-Цель — попасть в **Big Tech** в роли Software Engineer. Каждый день изучаю что-то новое: от реактивного программирования до проектирования высоконагруженных систем.
+
+---
+
+## 🧠 About Me
+
+Hey! I'm **Syimyk** — a backend developer from 🇰🇬 Kyrgyzstan.
+
+My goal is to become a **Software Engineer at Big Tech**. Every day I push further into reactive programming, distributed systems design, and everything in between.
+
 ```java
 Developer syimyk = new Developer()
     .name("Syimyk Sagynov")
     .role("Backend Developer")
+    .location("Bishkek, Kyrgyzstan 🇰🇬")
     .goal("Software Engineer @ Google") // 🎯
-    .learning(List.of("Spring Boot", "Redis", "Kafka", "gRPC", "Docker"))
-    .passion("Microservice Architecture & Distributed Systems")
-    .os(List.of("Arch Linux", "Ubuntu", "Windows"));
+    .currentlyLearning(List.of("Spring WebFlux", "Redis", "Kafka", "gRPC", "Docker"))
+    .interests(List.of("Microservice Architecture", "Distributed Systems", "Rate Limiting"))
+    .os(List.of("Arch Linux", "Ubuntu", "Windows"))
+    .motto("Code. Learn. Improve. Repeat.");
 ```
-## 🛠️ Стек технологий
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,grafana&theme=dark" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,redis&theme=dark" />
+
+**Databases**
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-<img src="https://skillicons.dev/icons?i=docker,maven,githubactions,idea,arch&theme=dark" />
+
+**Observability & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,grafana,maven,githubactions&theme=dark" />
+
+**Environment**
+
+<img src="https://skillicons.dev/icons?i=arch,idea,git,linux&theme=dark" />
+
 </div>
-## 📫 Контакты
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Shield API**](https://github.com/syimyk2005/shield-api) | Per-endpoint, per-client rate limiter with ALLOW / LIMIT / BLOCK decisions | Spring WebFlux, Redis, Kafka |
+| [**QR Service**](https://github.com/syimyk2005/qr-service) | Java library for QR-based document management | Java, Maven |
+| **Cert Registry** | Government certification management system | Axelor, Java, BIRT |
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=syimyk2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syimyk2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
 <a href="mailto:sagynov512@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/syimyk-sagynov-2568712b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/Sagynovv"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
 <br/>
-<image-card alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=syimyk2005.syimyk2005&color=00d9ff" ></image-card>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=syimyk2005.syimyk2005&color=00d9ff)
+
 </div>
+
+---
+
 <div align="center">
-*💬 "Code. Learn. Improve. Repeat."*
+  <sub>💬 <em>"Code. Learn. Improve. Repeat."</em></sub>
 </div>
-can you to offer amprovements for this readme file?
