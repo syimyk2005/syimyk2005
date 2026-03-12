@@ -94,5 +94,5 @@ Developer syimyk = new Developer()
 ---
 
 <div align="center">
-<sub>💬 <em>"Code. Learn. Improve. Repeat."</em> &nbsp;·&nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=syimyk2005.syimyk2005&color=00d9ff)</sub>
+<sub>💬 <em>"Code. Learn. Improve. Repeat."</em> &nbsp;·&nbsp; </sub>
 </div>
