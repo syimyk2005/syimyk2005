@@ -59,18 +59,6 @@ Developer syimyk = new Developer()
 
 </div>
 
----
-
-## 🚀 Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**Shield API**](https://github.com/syimyk2005/shield-api) | Per-endpoint, per-client rate limiter with ALLOW / LIMIT / BLOCK decisions | Spring WebFlux, Redis, Kafka |
-| [**QR Service**](https://github.com/syimyk2005/qr-service) | Java library for QR-based document management | Java, Maven |
-| **Cert Registry** | Government certification management system | Axelor, Java, BIRT |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
