@@ -41,31 +41,31 @@ Developer syimyk = new Developer()
 
 <div align="center">
 
-<a title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" /></a>
-<a title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring&theme=dark" height="40" /></a>
-<a title="Hibernate"><img src="https://skillicons.dev/icons?i=hibernate&theme=dark" height="40" /></a>
-<a title="Maven"><img src="https://skillicons.dev/icons?i=maven&theme=dark" height="40" /></a>
-<a title="Gradle"><img src="https://skillicons.dev/icons?i=gradle&theme=dark" height="40" /></a>
-<a title="Apache Kafka"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="40" /></a>
-<a title="Redis"><img src="https://skillicons.dev/icons?i=redis&theme=dark" height="40" /></a>
-<a title="RabbitMQ"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" height="40" /></a>
-<a title="Nginx"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" height="40" /></a>
-<a title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" /></a>
-<a title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="40" /></a>
-<a title="Prometheus"><img src="https://skillicons.dev/icons?i=prometheus&theme=dark" height="40" /></a>
-<br/>
-<a title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" /></a>
-<a title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" /></a>
-<a title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40" /></a>
-<a title="Elasticsearch"><img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" height="40" /></a>
-<a title="Grafana"><img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="40" /></a>
-<a title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="40" /></a>
-<a title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" /></a>
-<a title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" /></a>
-<a title="Arch Linux"><img src="https://skillicons.dev/icons?i=arch&theme=dark" height="40" /></a>
-<a title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea&theme=dark" height="40" /></a>
-<a title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" /></a>
-<a title="Bash"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40" /></a>
+<a href="#" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Hibernate"><img src="https://skillicons.dev/icons?i=hibernate&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Maven"><img src="https://skillicons.dev/icons?i=maven&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Gradle"><img src="https://skillicons.dev/icons?i=gradle&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Apache Kafka"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Redis"><img src="https://skillicons.dev/icons?i=redis&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="RabbitMQ"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Prometheus"><img src="https://skillicons.dev/icons?i=prometheus&theme=dark" height="40" /></a>
+<br/><br/>
+<a href="#" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Elasticsearch"><img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Grafana"><img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Arch Linux"><img src="https://skillicons.dev/icons?i=arch&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" /></a>&nbsp;
+<a href="#" title="Bash"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40" /></a>
 
 </div>
 
