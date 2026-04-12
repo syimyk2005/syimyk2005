@@ -10,6 +10,9 @@
 
 </div>
 
+---
+
+```java
 Developer syimyk = Developer.builder()
     .name("Syimyk Sagynov")
     .location("Bishkek, Kyrgyzstan")
@@ -18,30 +21,42 @@ Developer syimyk = Developer.builder()
     .learning(List.of("Spring WebFlux", "gRPC", "Kubernetes", "Distributed Systems"))
     .motto("Code. Learn. Improve. Repeat.")
     .build();
+```
 
+---
 
-| Layer | Technologies |
-| **Backend** | Java 21 · Spring Boot · Spring Security · Hibernate |
-| **Databases** | PostgreSQL · MongoDB · Redis · Elasticsearch |
-| **Messaging** | Apache Kafka · RabbitMQ |
-| **DevOps** | Docker · Kubernetes · Nginx · GitHub Actions |
-| **Observability** | Prometheus · Grafana |
-| **Storage** | MinIO · S3 |
-
+## Stack
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=syimyk2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch,kafka&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,linux&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,idea,bash&theme=dark" />
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=syimyk2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=3600" />
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syimyk2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syimyk2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&cache_seconds=3600" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=syimyk2005&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=syimyk2005&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
+
+---
+
+## Contact
 
 <div align="center">
 
@@ -51,6 +66,9 @@ Developer syimyk = Developer.builder()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syimyk2005)
 
 </div>
+
+---
+
 <div align="center">
 <sub><em>Code. Learn. Improve. Repeat.</em></sub>
 </div>
