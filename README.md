@@ -10,9 +10,6 @@
 
 </div>
 
----
-
-```java
 Developer syimyk = Developer.builder()
     .name("Syimyk Sagynov")
     .location("Bishkek, Kyrgyzstan")
@@ -21,14 +18,9 @@ Developer syimyk = Developer.builder()
     .learning(List.of("Spring WebFlux", "gRPC", "Kubernetes", "Distributed Systems"))
     .motto("Code. Learn. Improve. Repeat.")
     .build();
-```
 
----
-
-## Stack
 
 | Layer | Technologies |
-|---|---|
 | **Backend** | Java 21 · Spring Boot · Spring Security · Hibernate |
 | **Databases** | PostgreSQL · MongoDB · Redis · Elasticsearch |
 | **Messaging** | Apache Kafka · RabbitMQ |
@@ -36,9 +28,6 @@ Developer syimyk = Developer.builder()
 | **Observability** | Prometheus · Grafana |
 | **Storage** | MinIO · S3 |
 
----
-
-## GitHub Stats
 
 <div align="center">
 
@@ -54,10 +43,6 @@ Developer syimyk = Developer.builder()
 
 </div>
 
----
-
-## Contact
-
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sagynov512@gmail.com)
@@ -66,9 +51,6 @@ Developer syimyk = Developer.builder()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syimyk2005)
 
 </div>
-
----
-
 <div align="center">
 <sub><em>Code. Learn. Improve. Repeat.</em></sub>
 </div>
