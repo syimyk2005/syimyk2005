@@ -8,8 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Java+%26+Spring+Boot+Developer;Exploring+distributed+systems;Redis+%7C+Kafka+%7C+gRPC+%7C+Docker;Code.+Learn.+Improve.+Repeat.)](https://git.io/typing-svg)
 
-</div>
-
 <br/>
 
 ```yaml
@@ -26,11 +24,11 @@ motto:    "Code. Learn. Improve. Repeat."
 
 ## ⚙️ Stack
 
-<table width="100%">
+<table>
   <tr>
-    <th align="center">Backend</th>
-    <th align="center">Databases</th>
-    <th align="center">Messaging</th>
+    <th>Backend</th>
+    <th>Databases</th>
+    <th>Messaging</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" /></td>
@@ -38,8 +36,8 @@ motto:    "Code. Learn. Improve. Repeat."
     <td align="center"><img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" /></td>
   </tr>
   <tr>
-    <th align="center" colspan="2">DevOps & Infra</th>
-    <th align="center">Observability & Tools</th>
+    <th colspan="2">DevOps & Infra</th>
+    <th>Observability & Tools</th>
   </tr>
   <tr>
     <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,linux&theme=dark" /></td>
@@ -51,19 +49,13 @@ motto:    "Code. Learn. Improve. Repeat."
 
 ## 📊 GitHub Stats
 
-<table width="100%">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syimyk2005&theme=tokyonight" />
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syimyk2005&theme=tokyonight" />
-    </td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syimyk2005&theme=tokyonight" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syimyk2005&theme=tokyonight" /></td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syimyk2005&theme=tokyonight" />
-    </td>
+    <td colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syimyk2005&theme=tokyonight" /></td>
   </tr>
 </table>
 
@@ -71,33 +63,13 @@ motto:    "Code. Learn. Improve. Repeat."
 
 ## 📫 Contact
 
-<table width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <a href="mailto:sagynov512@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://t.me/Sagynovv">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.linkedin.com/in/syimyk-sagynov-2568712b9/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/syimyk2005">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sagynov512@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Sagynovv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syimyk-sagynov-2568712b9/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syimyk2005)
 
 <br/>
 
-<div align="center">
 <sub><em>Code. Learn. Improve. Repeat.</em></sub>
+
 </div>
