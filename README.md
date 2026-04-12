@@ -10,20 +10,13 @@
 
 </div>
 
----
-
-```java
-Developer syimyk = Developer.builder()
-    .name("Syimyk Sagynov")
-    .location("Bishkek, Kyrgyzstan")
-    .goal("Software Engineer @ Big Tech")
-    .stack(List.of("Java", "Spring Boot", "PostgreSQL", "Redis", "Kafka"))
-    .learning(List.of("Spring WebFlux", "gRPC", "Kubernetes", "Distributed Systems"))
-    .motto("Code. Learn. Improve. Repeat.")
-    .build();
-```
-
----
+name:     Syimyk Sagynov
+role:     Backend Developer
+location: Bishkek, Kyrgyzstan 🇰🇬
+goal:     Software Engineer @ Big Tech
+stack:    [ Java, Spring Boot, PostgreSQL, Redis, Kafka ]
+learning: [ Spring WebFlux, gRPC, Kubernetes, Distributed Systems ]
+motto:    "Code. Learn. Improve. Repeat."
 
 ## Stack
 
@@ -39,7 +32,6 @@ Developer syimyk = Developer.builder()
 
 </div>
 
----
 
 ## GitHub Stats
 
@@ -52,8 +44,6 @@ Developer syimyk = Developer.builder()
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syimyk2005&theme=tokyonight)
 
 </div>
-
----
 
 ## Contact
 
