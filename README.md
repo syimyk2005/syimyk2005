@@ -7,9 +7,7 @@
 *Building scalable systems. Aiming for Big Tech.*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Java+%26+Spring+Boot+Developer;Exploring+distributed+systems;Redis+%7C+Kafka+%7C+gRPC+%7C+Docker;Code.+Learn.+Improve.+Repeat.)](https://git.io/typing-svg)
-
 <br/>
-
 <br/>
 
 <table>
