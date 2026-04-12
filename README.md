@@ -10,6 +10,9 @@
 
 </div>
 
+<br/>
+
+```yaml
 name:     Syimyk Sagynov
 role:     Backend Developer
 location: Bishkek, Kyrgyzstan 🇰🇬
@@ -17,42 +20,83 @@ goal:     Software Engineer @ Big Tech
 stack:    [ Java, Spring Boot, PostgreSQL, Redis, Kafka ]
 learning: [ Spring WebFlux, gRPC, Kubernetes, Distributed Systems ]
 motto:    "Code. Learn. Improve. Repeat."
+```
 
-## Stack
+<br/>
 
-<div align="center">
+## ⚙️ Stack
 
-| Backend | Databases | Messaging |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch&theme=dark" /> | <img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" /> |
+<table width="100%">
+  <tr>
+    <th align="center">Backend</th>
+    <th align="center">Databases</th>
+    <th align="center">Messaging</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" /></td>
+  </tr>
+  <tr>
+    <th align="center" colspan="2">DevOps & Infra</th>
+    <th align="center">Observability & Tools</th>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,linux&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prometheus,grafana,git,idea,bash&theme=dark" /></td>
+  </tr>
+</table>
 
-| DevOps & Infra | Observability & Tools |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,linux&theme=dark" /> | <img src="https://skillicons.dev/icons?i=prometheus,grafana,git,idea,bash&theme=dark" /> |
+<br/>
 
-</div>
+## 📊 GitHub Stats
 
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syimyk2005&theme=tokyonight" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syimyk2005&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syimyk2005&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
-## GitHub Stats
+<br/>
 
-<div align="center">
+## 📫 Contact
 
-| Stats | Languages |
-|:---:|:---:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syimyk2005&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syimyk2005&theme=tokyonight) |
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="mailto:sagynov512@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://t.me/Sagynovv">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/syimyk-sagynov-2568712b9/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/syimyk2005">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syimyk2005&theme=tokyonight)
-
-</div>
-
-## Contact
-
-<div align="center">
-
-| [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sagynov512@gmail.com) | [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Sagynovv) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syimyk-sagynov-2568712b9/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syimyk2005) |
-|:---:|:---:|:---:|:---:|
-
-</div>
+<br/>
 
 <div align="center">
 <sub><em>Code. Learn. Improve. Repeat.</em></sub>
