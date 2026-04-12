@@ -10,19 +10,7 @@
 
 <br/>
 
-```yaml
-name:     Syimyk Sagynov
-role:     Backend Developer
-location: Bishkek, Kyrgyzstan 🇰🇬
-goal:     Software Engineer @ Big Tech
-stack:    [ Java, Spring Boot, PostgreSQL, Redis, Kafka ]
-learning: [ Spring WebFlux, gRPC, Kubernetes, Distributed Systems ]
-motto:    "Code. Learn. Improve. Repeat."
-```
-
 <br/>
-
-## ⚙️ Stack
 
 <table>
   <tr>
@@ -47,8 +35,6 @@ motto:    "Code. Learn. Improve. Repeat."
 
 <br/>
 
-## 📊 GitHub Stats
-
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syimyk2005&theme=tokyonight" /></td>
@@ -60,8 +46,6 @@ motto:    "Code. Learn. Improve. Repeat."
 </table>
 
 <br/>
-
-## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sagynov512@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Sagynovv)
