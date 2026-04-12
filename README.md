@@ -64,8 +64,6 @@ Developer syimyk = Developer.builder()
 
 </div>
 
----
-
 <div align="center">
 <sub><em>Code. Learn. Improve. Repeat.</em></sub>
 </div>
